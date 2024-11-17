@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C2AB69A-4F67-4648-9C95-083900434AA3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A845B9BC-1E3F-41D1-A7D0-47F6D5200FF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A845B9BC-1E3F-41D1-A7D0-47F6D5200FF9 - 10bbb5edd37aee7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "A845B9BC-1E3F-41D1-A7D0-47F6D5200FF9 - 10bbb5edd37aee7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1485E6B-4387-4B9C-89DA-F90B267C22E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "initPercentageLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1485E6B-4387-4B9C-89DA-F90B267C22E8 - 3a246b75599fceaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "E1485E6B-4387-4B9C-89DA-F90B267C22E8 - 3a246b75599fcecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AED6E6D3-77F3-43EF-87E0-647269275423"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "initPercentageLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AED6E6D3-77F3-43EF-87E0-647269275423 - 3a246b75599fceaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "AED6E6D3-77F3-43EF-87E0-647269275423 - 3a246b75599fceaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4370719-7DC2-4FB6-B2EC-03F8069F03D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "initPercentageLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4370719-7DC2-4FB6-B2EC-03F8069F03D6 - 3a246b75599fcd49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "F4370719-7DC2-4FB6-B2EC-03F8069F03D6 - 3a246b75599fcd49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "971E4C27-5601-4838-8B08-47A210055EF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "initPercentageLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "971E4C27-5601-4838-8B08-47A210055EF0 - 3a246b75599fcd26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "971E4C27-5601-4838-8B08-47A210055EF0 - 3a246b75599fcd26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.initPercentageLabel() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "839ED837-1EE1-4CD9-AD06-338378524A5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "839ED837-1EE1-4CD9-AD06-338378524A5D - 10bbb5edd37aee58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "839ED837-1EE1-4CD9-AD06-338378524A5D - 10bbb5edd37aee58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58523669-4105-4EF4-8684-793CF3B3F57F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58523669-4105-4EF4-8684-793CF3B3F57F - 10bbb5edd37ae99a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "58523669-4105-4EF4-8684-793CF3B3F57F - 10bbb5edd37ae9b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C70F1DE-8414-49F8-825F-F21610C0A819"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C70F1DE-8414-49F8-825F-F21610C0A819 - 10bbb5edd3651491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "3724">
+               </Location>
+               <Location
+                  uuid = "9C70F1DE-8414-49F8-825F-F21610C0A819 - 10bbb5edd3651557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "4220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E430142-5582-4083-9E63-60ECB7287CA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E430142-5582-4083-9E63-60ECB7287CA4 - 10bbb5edd37ae9d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "3E430142-5582-4083-9E63-60ECB7287CA4 - 10bbb5edd37ae9d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "413144B3-88CE-4DC0-A559-28CBDF1DCDB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "413144B3-88CE-4DC0-A559-28CBDF1DCDB8 - 10bbb5edd37aeb66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2616">
+               </Location>
+               <Location
+                  uuid = "413144B3-88CE-4DC0-A559-28CBDF1DCDB8 - 10bbb5edd37aeb66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05411255-B5E6-40C7-B632-F74DBC131AC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05411255-B5E6-40C7-B632-F74DBC131AC4 - 10bbb5edd3651576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "3536">
+               </Location>
+               <Location
+                  uuid = "05411255-B5E6-40C7-B632-F74DBC131AC4 - 10bbb5edd3651576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "3724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60F4611F-ACE1-42B0-86F1-F76E555A8DEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "updateCirclePercentage(percent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60F4611F-ACE1-42B0-86F1-F76E555A8DEB - 10bbb5edd36515db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "3320">
+               </Location>
+               <Location
+                  uuid = "60F4611F-ACE1-42B0-86F1-F76E555A8DEB - 10bbb5edd36515db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.RatingView.updateCirclePercentage(percent: Swift.Double) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Custom/RatingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "3536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62EA2862-1B2A-4256-BB25-84136BE21B52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/HomeList/View/Cell/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "updateReleaseDate(movieDictionary:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1AB6037-9A72-40AD-839F-6D9822EC399B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Services/MoviePopularService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchPopularMovies(pageNumber:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1AB6037-9A72-40AD-839F-6D9822EC399B - 35ce26c7f1d9633a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Architecture_Demo_By_Arjun.MoviePopularServiceImplmentation.fetchPopularMovies(pageNumber: Swift.Int, completion: (Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Services/MoviePopularService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+               <Location
+                  uuid = "A1AB6037-9A72-40AD-839F-6D9822EC399B - 7ba9cc994dfcd98b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Architecture_Demo_By_Arjun.MoviePopularServiceImplmentation.fetchPopularMovies(pageNumber: Swift.Int, completion: (Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Services/MoviePopularService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "A1AB6037-9A72-40AD-839F-6D9822EC399B - eafbd7464acfd9b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "Architecture_Demo_By_Arjun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjun.thakur/Desktop/Architecture_Demo_By_Arjun/Architecture_Demo_By_Arjun/Services/MoviePopularService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CE9A398-CB75-4C25-80BA-2FD97D7A0DF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Services/MoviePopularService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchPopularMovies(pageNumber:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "437777A1-63EC-44A6-A6B2-56DA8D516AAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Architecture_Demo_By_Arjun/Services/MoviePopularService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "fetchPopularMovies(pageNumber:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
